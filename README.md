@@ -1,1 +1,3 @@
-# Learning-C-
+This has all the stuff I did to start learning C# hopefully if you're on my github to learn the same way I did. The way I learn things is kinda weird. I have to be shown it a lot of times to understand it. So if you see a lot of the same projects on here that is why. Basically what im doing is drilling it into my brain so I can remember what an integer is or what a string does. Also I don't have a major in anything or even a High School diploma (Im still in high school) so take every bit of advice with a grain of salt.
+
+I mainly follow tutorials so everything will be linked. I recommend not just straight up using my code because you won't learn anything. If anything use my code as a reference when you're done with the videos. Happy Coding!
